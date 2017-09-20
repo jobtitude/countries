@@ -4,6 +4,7 @@ A:
   - Alicante/Alacant
   - Alicante
   - Alacant
+  sap_code: '03'
   translations:
     en: Alicante
     ar: أليكانتي
@@ -64,6 +65,7 @@ A:
   name: Alicante/Alacant
 AB:
   unofficial_names: Albacete
+  sap_code: '02'
   translations:
     en: Albacete
     ar: البسيط
@@ -124,6 +126,7 @@ AB:
   name: Albacete
 AL:
   unofficial_names: Almería
+  sap_code: '04'
   translations:
     en: Almería
     ar: المرية
@@ -186,6 +189,7 @@ AL:
   name: Almería
 AV:
   unofficial_names: Ávila
+  sap_code: '05'
   translations:
     en: Ávila
     ar: آبلة
@@ -245,6 +249,7 @@ AV:
   name: Ávila
 B:
   unofficial_names: Barcelona
+  sap_code: '08'
   translations:
     en: Barcelona
     ar: برشلونة
@@ -304,6 +309,7 @@ B:
   name: Barcelona
 BA:
   unofficial_names: Badajoz
+  sap_code: '06'
   translations:
     en: Badajoz
     ar: بطليوس
@@ -366,6 +372,7 @@ BI:
   unofficial_names:
   - Bizkaia
   - Vizcaya
+  sap_code: '48'
   translations:
     en: Biscay
     af: Biskaje
@@ -425,6 +432,7 @@ BI:
   name: Bizkaia
 BU:
   unofficial_names: Burgos
+  sap_code: '09'
   translations:
     en: Burgos
     ar: برغش
@@ -488,6 +496,7 @@ C:
   - A Coruña
   - Corunna
   - La Coruña
+  sap_code: '15'
   translations:
     en: A Coruña
     ar: لا كورونيا
@@ -548,6 +557,7 @@ C:
   name: Coruña, A
 CA:
   unofficial_names: Cádiz
+  sap_code: '11'
   translations:
     en: Cádiz
     ar: قادس
@@ -607,6 +617,7 @@ CA:
   name: Cádiz
 CC:
   unofficial_names: Cáceres
+  sap_code: '10'
   translations:
     en: Cáceres
     ar: قصرش
@@ -667,6 +678,7 @@ CE:
   unofficial_names:
   - Ceuta
   - Sebta
+  sap_code: '51'
   translations:
     en: Ceuta
     af: Ceuta
@@ -735,6 +747,7 @@ CE:
   name: Ceuta
 CO:
   unofficial_names: Córdoba
+  sap_code: '14'
   translations:
     en: Córdoba
     ar: مقاطعة قرطبة
@@ -794,6 +807,7 @@ CO:
   name: Córdoba
 CR:
   unofficial_names: Ciudad Real
+  sap_code: '13'
   translations:
     en: Ciudad Real
     ar: ثيوداد ريال
@@ -855,6 +869,7 @@ CS:
   - Castellón/Castelló
   - Castellón
   - Castelló
+  sap_code: '12'
   translations:
     en: Castellón
     ar: كاستيون
@@ -914,6 +929,7 @@ CS:
   name: Castellón/Castelló
 CU:
   unofficial_names: Cuenca
+  sap_code: '16'
   translations:
     en: Cuenca
     ar: قونكة
@@ -976,6 +992,7 @@ GC:
   - Palmas, Las
   - Las Palmas
   - Las Palmas de Gran Canaria
+  sap_code: '35'
   translations:
     en: Las Palmas
     ar: لاس بالماس
@@ -1036,6 +1053,7 @@ GI:
   unofficial_names:
   - Girona
   - Gerona
+  sap_code: '17'
   translations:
     en: Girona
     ar: جرندة
@@ -1097,6 +1115,7 @@ GI:
   name: Girona
 GR:
   unofficial_names: Granada
+  sap_code: '18'
   translations:
     en: Granada
     ar: غرناطة
@@ -1157,6 +1176,7 @@ GR:
   name: Granada
 GU:
   unofficial_names: Guadalajara
+  sap_code: '19'
   translations:
     en: Guadalajara
     ar: غوادالاخارا
@@ -1215,6 +1235,7 @@ GU:
   name: Guadalajara
 H:
   unofficial_names: Huelva
+  sap_code: '21'
   translations:
     en: Huelva
     ar: ولبة
@@ -1273,6 +1294,7 @@ H:
   name: Huelva
 HU:
   unofficial_names: Huesca
+  sap_code: '22'
   translations:
     en: Huesca
     ar: وشقة
@@ -1333,6 +1355,7 @@ HU:
   name: Huesca
 J:
   unofficial_names: Jaén
+  sap_code: '23'
   translations:
     en: Jaén
     ar: خاين
@@ -1395,6 +1418,7 @@ L:
   unofficial_names:
   - Lleida
   - Lérida
+  sap_code: '25'
   translations:
     en: Lleida
     ar: لاردة
@@ -1453,6 +1477,7 @@ L:
   name: Lleida
 LE:
   unofficial_names: León
+  sap_code: '24'
   translations:
     en: León
     ar: ليون
@@ -1511,6 +1536,7 @@ LO:
   - Rioja, La
   - La Rioja
   - Logroño
+  sap_code: '26'
   translations:
     en: La Rioja Province
     ar: منطقة لا ريوخا
@@ -1576,6 +1602,7 @@ LO:
   name: Rioja, La
 LU:
   unofficial_names: Lugo
+  sap_code: '27'
   translations:
     en: Lugo
     ar: لوغو
@@ -1634,6 +1661,7 @@ LU:
   name: Lugo
 M:
   unofficial_names: Madrid
+  sap_code: '28'
   translations:
     en: Madrid Province
     be: Правінцыя Мадрыд
@@ -1653,6 +1681,7 @@ M:
   name: Madrid
 MA:
   unofficial_names: Málaga
+  sap_code: '29'
   translations:
     en: Málaga
     ar: مالقة
@@ -1704,6 +1733,7 @@ MA:
   name: Málaga
 ML:
   unofficial_names: Melilla
+  sap_code: '52'
   translations:
     en: Melilla
     af: Melilla
@@ -1772,6 +1802,7 @@ ML:
   name: Melilla
 MU:
   unofficial_names: Murcia
+  sap_code: '30'
   translations:
     en: Murcia
     ja: ムルシア県
@@ -1787,6 +1818,7 @@ NA:
   unofficial_names:
   - Navarra
   - Navarre
+  sap_code: '31'
   translations:
     en: Navarra
   geo:
@@ -1801,6 +1833,7 @@ O:
   unofficial_names:
   - Asturias
   - Oviedo
+  sap_code: '33'
   translations:
     en: Asturias Province
   geo:
@@ -1815,6 +1848,7 @@ OR:
   unofficial_names:
   - Ourense
   - Orense
+  sap_code: '32'
   translations:
     en: Ourense
     ar: أورينسي
@@ -1874,6 +1908,7 @@ OR:
   name: Ourense
 P:
   unofficial_names: Palencia
+  sap_code: '34'
   translations:
     en: Palencia
     ar: بالنثيا
@@ -1937,6 +1972,7 @@ PM:
   - Illes Balears
   - Islas Baleares
   - Balearic Islands
+  sap_code: '07'
   translations:
     en: Balears Province
   geo:
@@ -1949,6 +1985,7 @@ PM:
   name: Balears, Illes
 PO:
   unofficial_names: Pontevedra
+  sap_code: '36'
   translations:
     en: Pontevedra
     ar: بونتيفيدرا
@@ -2009,6 +2046,7 @@ S:
   unofficial_names:
   - Cantabria
   - Santander
+  sap_code: '39'
   translations:
     en: Cantabria Province
   geo:
@@ -2021,6 +2059,7 @@ S:
   name: Cantabria
 SA:
   unofficial_names: Salamanca
+  sap_code: '37'
   translations:
     en: Salamanca
     ar: شلمنقة
@@ -2080,6 +2119,7 @@ SA:
   name: Salamanca
 SE:
   unofficial_names: Sevilla
+  sap_code: '41'
   translations:
     en: Seville
     ar: إشبيلية
@@ -2140,6 +2180,7 @@ SE:
   name: Sevilla
 SG:
   unofficial_names: Segovia
+  sap_code: '40'
   translations:
     en: Segovia
     ar: شقوبية
@@ -2190,6 +2231,7 @@ SG:
   name: Segovia
 SO:
   unofficial_names: Soria
+  sap_code: '42'
   translations:
     en: Soria
     af: Provinsie Soria
@@ -2251,6 +2293,7 @@ SS:
   unofficial_names:
   - Gipuzkoa
   - Guipúzcoa
+  sap_code: '20'
   translations:
     en: Gipuzkoa
     af: Gipuzkoa
@@ -2311,6 +2354,7 @@ SS:
   name: Gipuzkoa
 T:
   unofficial_names: Tarragona
+  sap_code: '43'
   translations:
     en: Tarragona
     ar: طراغونة
@@ -2370,6 +2414,7 @@ T:
   name: Tarragona
 TE:
   unofficial_names: Teruel
+  sap_code: '44'
   translations:
     en: Teruel
     ar: تيروال
@@ -2422,6 +2467,7 @@ TF:
   unofficial_names:
   - Santa Cruz de Tenerife
   - Tenerife
+  sap_code: '38'
   translations:
     en: Santa Cruz de Tenerife
     ar: سانتا كروث دي تينيريفه
@@ -2480,6 +2526,7 @@ TF:
   name: Santa Cruz de Tenerife
 TO:
   unofficial_names: Toledo
+  sap_code: '45'
   translations:
     en: Toledo
     ar: طليطلة
@@ -2533,6 +2580,7 @@ V:
   - Valencia/València
   - Valencia
   - València
+  sap_code: '46'
   translations:
     en: Valencia
     ar: بلنسية
@@ -2592,6 +2640,7 @@ V:
   name: Valencia/València
 VA:
   unofficial_names: Valladolid
+  sap_code: '47'
   translations:
     en: Valladolid
     ar: بلد الوليد
@@ -2654,6 +2703,7 @@ VI:
   - Araba/Álava
   - Araba
   - Álava
+  sap_code: '01'
   translations:
     en: Álava
     af: Álava
@@ -2714,6 +2764,7 @@ VI:
   name: Araba/Álava
 Z:
   unofficial_names: Zaragoza
+  sap_code: '50'
   translations:
     en: Zaragoza
     ar: سرقسطة
@@ -2772,6 +2823,7 @@ Z:
   name: Zaragoza
 ZA:
   unofficial_names: Zamora
+  sap_code: '49'
   translations:
     en: Zamora
     ar: سمورة

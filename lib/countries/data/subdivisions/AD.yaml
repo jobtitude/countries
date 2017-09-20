@@ -11,6 +11,7 @@
     max_latitude: 42.5679867
     max_longitude: 1.6037142
   name: Canillo
+  sap_code: '05'
   comments: 
 '03':
   unofficial_names: Encamp
@@ -24,6 +25,7 @@
     max_latitude: 42.5395096
     max_longitude: 1.5901645
   name: Encamp
+  sap_code: '04'
   comments: 
 '04':
   unofficial_names: La Massana
@@ -37,6 +39,7 @@
     max_latitude: 42.5501711
     max_longitude: 1.5204314
   name: La Massana
+  sap_code: '06'
   comments: 
 '05':
   unofficial_names: Ordino
@@ -50,6 +53,7 @@
     max_latitude: 42.5596833
     max_longitude: 1.5374774
   name: Ordino
+  sap_code: '07'
   comments: 
 '06':
   unofficial_names:
@@ -64,6 +68,7 @@
     max_latitude: 42.4727386
     max_longitude: 1.4963642
   name: Sant Julià de Lòria
+  sap_code: '02'
   comments: 
 '07':
   unofficial_names:
@@ -79,6 +84,7 @@
     max_latitude: 42.513564
     max_longitude: 1.5353385
   name: Andorra la Vella
+  sap_code: '01'
   comments: 
 08:
   unofficial_names:
@@ -93,4 +99,5 @@
     max_latitude: 42.5168669
     max_longitude: 1.5532685
   name: Escaldes-Engordany
+  sap_code: '03'
   comments: 

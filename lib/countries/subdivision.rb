@@ -5,6 +5,7 @@ module ISO3166
     :unofficial_names,
     :geo,
     :translations,
-    :comments
+    :comments,
+    :sap_code
   )
 end
